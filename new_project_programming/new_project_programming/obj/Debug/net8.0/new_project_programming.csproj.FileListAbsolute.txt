@@ -1,0 +1,14 @@
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\bin\Debug\net8.0\new_project_programming.exe
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\bin\Debug\net8.0\new_project_programming.deps.json
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\bin\Debug\net8.0\new_project_programming.runtimeconfig.json
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\bin\Debug\net8.0\new_project_programming.dll
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\bin\Debug\net8.0\new_project_programming.pdb
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\obj\Debug\net8.0\new_project_programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\obj\Debug\net8.0\new_project_programming.AssemblyInfoInputs.cache
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\obj\Debug\net8.0\new_project_programming.AssemblyInfo.cs
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\obj\Debug\net8.0\new_project_programming.csproj.CoreCompileInputs.cache
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\obj\Debug\net8.0\new_project_programming.dll
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\obj\Debug\net8.0\refint\new_project_programming.dll
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\obj\Debug\net8.0\new_project_programming.pdb
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\obj\Debug\net8.0\new_project_programming.genruntimeconfig.cache
+C:\Users\Teo\source\repos\new_project_programming\new_project_programming\obj\Debug\net8.0\ref\new_project_programming.dll

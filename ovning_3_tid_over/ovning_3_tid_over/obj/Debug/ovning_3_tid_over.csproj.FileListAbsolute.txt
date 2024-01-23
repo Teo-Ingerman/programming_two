@@ -1,0 +1,7 @@
+C:\Users\Teo\source\repos\ovning_3_tid_over\ovning_3_tid_over\bin\Debug\ovning_3_tid_over.exe.config
+C:\Users\Teo\source\repos\ovning_3_tid_over\ovning_3_tid_over\bin\Debug\ovning_3_tid_over.exe
+C:\Users\Teo\source\repos\ovning_3_tid_over\ovning_3_tid_over\bin\Debug\ovning_3_tid_over.pdb
+C:\Users\Teo\source\repos\ovning_3_tid_over\ovning_3_tid_over\obj\Debug\ovning_3_tid_over.csproj.AssemblyReference.cache
+C:\Users\Teo\source\repos\ovning_3_tid_over\ovning_3_tid_over\obj\Debug\ovning_3_tid_over.csproj.CoreCompileInputs.cache
+C:\Users\Teo\source\repos\ovning_3_tid_over\ovning_3_tid_over\obj\Debug\ovning_3_tid_over.exe
+C:\Users\Teo\source\repos\ovning_3_tid_over\ovning_3_tid_over\obj\Debug\ovning_3_tid_over.pdb

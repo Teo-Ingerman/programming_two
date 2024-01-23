@@ -1,0 +1,7 @@
+C:\Users\Teo\source\repos\beeg_name\beeg_name\bin\Debug\beeg_name.exe.config
+C:\Users\Teo\source\repos\beeg_name\beeg_name\bin\Debug\beeg_name.exe
+C:\Users\Teo\source\repos\beeg_name\beeg_name\bin\Debug\beeg_name.pdb
+C:\Users\Teo\source\repos\beeg_name\beeg_name\obj\Debug\beeg_name.csproj.AssemblyReference.cache
+C:\Users\Teo\source\repos\beeg_name\beeg_name\obj\Debug\beeg_name.csproj.CoreCompileInputs.cache
+C:\Users\Teo\source\repos\beeg_name\beeg_name\obj\Debug\beeg_name.exe
+C:\Users\Teo\source\repos\beeg_name\beeg_name\obj\Debug\beeg_name.pdb
