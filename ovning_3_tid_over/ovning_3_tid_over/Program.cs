@@ -19,7 +19,7 @@ namespace ovning_3_tid_over
 
             int[,] numbers = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
 
-            numbers[0,2] = 1;
+            numbers[0,0] = 1;
         }
     }
 }

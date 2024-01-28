@@ -1,0 +1,7 @@
+C:\Users\Teo\Documents\programming_files\programming_two\yatzy\yatzy\obj\Debug\yatzy.csproj.AssemblyReference.cache
+C:\Users\Teo\Documents\programming_files\programming_two\yatzy\yatzy\obj\Debug\yatzy.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Documents\programming_files\programming_two\yatzy\yatzy\bin\Debug\yatzy.exe.config
+C:\Users\Teo\Documents\programming_files\programming_two\yatzy\yatzy\bin\Debug\yatzy.exe
+C:\Users\Teo\Documents\programming_files\programming_two\yatzy\yatzy\bin\Debug\yatzy.pdb
+C:\Users\Teo\Documents\programming_files\programming_two\yatzy\yatzy\obj\Debug\yatzy.exe
+C:\Users\Teo\Documents\programming_files\programming_two\yatzy\yatzy\obj\Debug\yatzy.pdb
