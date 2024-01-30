@@ -53,7 +53,22 @@ namespace ovning_4
 
 
 
-            
+            if (age < 15)
+            {
+                price = 15;
+            }
+            else if (age < 60)
+            {
+                price = 60;
+            }
+            else
+            {
+                price = 30;
+            }
+
+            Console.WriteLine($"price: {price}");
+
+
         }
     }
 }

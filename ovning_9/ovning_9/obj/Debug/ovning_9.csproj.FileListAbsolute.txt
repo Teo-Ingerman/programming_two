@@ -1,0 +1,7 @@
+C:\Users\Teo\Documents\programming_files\programming_two\ovning_9\ovning_9\bin\Debug\ovning_9.exe.config
+C:\Users\Teo\Documents\programming_files\programming_two\ovning_9\ovning_9\bin\Debug\ovning_9.exe
+C:\Users\Teo\Documents\programming_files\programming_two\ovning_9\ovning_9\bin\Debug\ovning_9.pdb
+C:\Users\Teo\Documents\programming_files\programming_two\ovning_9\ovning_9\obj\Debug\ovning_9.csproj.AssemblyReference.cache
+C:\Users\Teo\Documents\programming_files\programming_two\ovning_9\ovning_9\obj\Debug\ovning_9.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Documents\programming_files\programming_two\ovning_9\ovning_9\obj\Debug\ovning_9.exe
+C:\Users\Teo\Documents\programming_files\programming_two\ovning_9\ovning_9\obj\Debug\ovning_9.pdb
