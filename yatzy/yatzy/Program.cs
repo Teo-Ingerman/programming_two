@@ -152,22 +152,30 @@ namespace yatzy
 
             // creating a dictionary for the dice value and the amount for each dice
 
-            Dictionary<int, int> dice_amounts = new Dictionary<int, int>();
+            //Dictionary<int, int> dice_amounts = new Dictionary<int, int>();
 
-            dice_amounts.Add(1, 0);
-            dice_amounts.Add(2, 0);
-            dice_amounts.Add(3, 0);
-            dice_amounts.Add(4, 0);
-            dice_amounts.Add(5, 0);
-            dice_amounts.Add(6, 0);
+            
+
+            List<(int, int)> dice_amounts = new List<(int, int)> ();
+
+
+            dice_amounts.Add((1, 0));
+            dice_amounts.Add((2, 0));
+            dice_amounts.Add((3, 0));
+            dice_amounts.Add((4, 0));
+            dice_amounts.Add((5, 0));
+            dice_amounts.Add((6, 0));
+
 
             for (int i = 0; i < dice.Count(); i++)
             {
-                int new_count = dice_amounts[i] + 1;
+                int new_count = (dice_amounts[i])[1] + 1;
                 dice_amounts[i] = new_count;
             }
+            
+            //SortedDictionary<int, int> ordered_amounts = new SortedDictionary<int, int>(dice_amounts);
 
-            SortedDictionary<int, int> ordered_amounts = new SortedDictionary<int, int>(dice_amounts);
+            var ordered_amounts = from entry in dice_amounts orderby entry.Value descending select entry;
 
             Console.WriteLine(ordered_amounts[0]);
 
@@ -204,9 +212,11 @@ namespace yatzy
             // value of the most prevalent value added togeher
             //int dice_sum_second = distinct_dice[1] * dice_count_second;
             
-            List<int> keyList = new List<string>(dice_amounts);
+            //List<int> keyList = new List<string>(dice_amounts);
             // Sum of the most prevalent die
-            int dice_sum = dice_amounts[0] * 
+            int dice_sum_1 = dice_amounts.Keys.First() * dice_amounts[dice_amounts.Keys.First()];
+            int dice_sum_2 = dice_amounts.Keys. * dice_amounts[dice_amounts.Keys.First()];
+
 
             // checking for yatzy
             if (distinct_dice == 1)
@@ -216,10 +226,9 @@ namespace yatzy
 
             // checking for house
 
-            if (distinct_dice == 2 & dice_amounts[0] != 4)  
+            if (distinct_dice == 2 & dice_amounts[dice_amounts.Keys.First()] != 4)  
             {
-                int dice_sum = dice_vals[distinct_dice[0]] * dice_vals[dice_vals[distinct_dice[0]]];
-                int house_sum = dice_sum + dice_sum_second;
+                int house_sum = dice_sum_1 + dice_sum_2;
                 valid_combos.Add("house", house_sum);
             }
 
