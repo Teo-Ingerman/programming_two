@@ -43,6 +43,8 @@ namespace ovning_9
             List<string> word_list = new List<string>();
 
             String line;
+            // source for the words
+            // https://github.com/AmeyRuikar/sentiment-analysis/blob/master/positive%20words.csv
             try
             {
                 StreamReader sr = new StreamReader("nice_words.txt");

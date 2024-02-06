@@ -28,12 +28,12 @@ namespace ovning_10
         public int age;
         public string interest;
 
-        public Person(string f_name, string l_name, int years, string interesse)
+        public Person(string first_name, string last_name, int age, string interest)
         {
-            first_name = f_name; 
-            last_name = l_name; 
-            age = years; 
-            interest = interesse;
+            this.first_name = first_name; 
+            this.last_name = last_name; 
+            this.age = age; 
+            this.interest = interest;
         }
         public string summary()
         {
