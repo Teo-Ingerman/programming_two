@@ -36,15 +36,34 @@ namespace yatzy
                 { 6, 0 }
             };
 
-
-
+            Dictionary<int, int> dice_ordered = new Dictionary<int, int>();
 
             int[] distinct_dice = dice.Distinct().ToArray();
+
 
 
             foreach (int die in dice)
             {
                 dice_counts[die]++;
+            }
+            foreach (var die in dice_counts)
+            {
+                print($"{die}");
+            }
+
+            print("");
+            var sortedDict = (from entry in dice_counts orderby entry.Value descending select entry);
+
+            foreach (var die_count in sortedDict)
+            {
+                int die = die_count.Key;
+                int count = die_count.Value;
+                dice_ordered.Add(die, count);
+            }
+
+            foreach (var die in dice_ordered)
+            {
+                print($"{die}");
             }
 
             // Yatzy
@@ -54,16 +73,16 @@ namespace yatzy
                 dice_combos.Add("yatzy", 50);
             }
 
-            
+            if (distinct_dice.Count() == 2)
+            {
+                dice_combos.Add("fours", 2);
+            }
 
 
 
 
             return dice_combos;
         }
-
-
-
 
 
         static void Main(string[] args)
