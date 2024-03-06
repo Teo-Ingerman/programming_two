@@ -1,0 +1,10 @@
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\bin\Debug\ovning_7_3.exe.config
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\bin\Debug\ovning_7_3.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\bin\Debug\ovning_7_3.pdb
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\obj\Debug\ovning_7_3.csproj.AssemblyReference.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\obj\Debug\ovning_7_3.Form1.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\obj\Debug\ovning_7_3.Properties.Resources.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\obj\Debug\ovning_7_3.csproj.GenerateResource.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\obj\Debug\ovning_7_3.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\obj\Debug\ovning_7_3.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\ovning_7_3\obj\Debug\ovning_7_3.pdb
