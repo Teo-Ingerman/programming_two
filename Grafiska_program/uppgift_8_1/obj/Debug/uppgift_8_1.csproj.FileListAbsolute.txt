@@ -1,0 +1,10 @@
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\obj\Debug\uppgift_8_1.csproj.AssemblyReference.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\obj\Debug\uppgift_8_1.Form1.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\obj\Debug\uppgift_8_1.Properties.Resources.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\obj\Debug\uppgift_8_1.csproj.GenerateResource.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\obj\Debug\uppgift_8_1.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\bin\Debug\uppgift_8_1.exe.config
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\bin\Debug\uppgift_8_1.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\bin\Debug\uppgift_8_1.pdb
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\obj\Debug\uppgift_8_1.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\uppgift_8_1\obj\Debug\uppgift_8_1.pdb
