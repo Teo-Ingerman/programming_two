@@ -1,0 +1,10 @@
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\bin\Debug\mr_magoo.exe.config
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\bin\Debug\mr_magoo.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\bin\Debug\mr_magoo.pdb
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\obj\Debug\mr_magoo.csproj.AssemblyReference.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\obj\Debug\mr_magoo.Form1.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\obj\Debug\mr_magoo.Properties.Resources.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\obj\Debug\mr_magoo.csproj.GenerateResource.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\obj\Debug\mr_magoo.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\obj\Debug\mr_magoo.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\mr_magoo\obj\Debug\mr_magoo.pdb
