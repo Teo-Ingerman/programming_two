@@ -1,0 +1,10 @@
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\bin\Debug\drawing_app.exe.config
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\bin\Debug\drawing_app.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\bin\Debug\drawing_app.pdb
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\obj\Debug\drawing_app.csproj.AssemblyReference.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\obj\Debug\drawing_app.Form1.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\obj\Debug\drawing_app.Properties.Resources.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\obj\Debug\drawing_app.csproj.GenerateResource.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\obj\Debug\drawing_app.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\obj\Debug\drawing_app.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\drawing_app\obj\Debug\drawing_app.pdb

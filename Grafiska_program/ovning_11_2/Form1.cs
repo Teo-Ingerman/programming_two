@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ovning_11_2
@@ -17,24 +11,35 @@ namespace ovning_11_2
             InitializeComponent();
         }
 
-        public int x;
-        public int y;
-        public int side_length;
+        public int x = 300;
+        public int y = 300;
+        public int side_length = 100;
 
         protected override void OnPaint(PaintEventArgs e)
         {
             Graphics g = e.Graphics;
-            Circle circle = new Circle(300, 200, 50, Color.Yellow);
+            Circle circle = new Circle(x, y, side_length, Color.Yellow);
+
+            Pen circle_pen = new Pen(circle.color);
 
             SolidBrush cirlce_brush = new SolidBrush(circle.color);
 
             g.FillEllipse(cirlce_brush, circle.rect);
+            g.DrawEllipse(circle_pen, circle.rect);
+
+            foreach ()
+            {
+
+            }
+
 
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            Invalidate();
 
             int diameter;
             try
@@ -43,19 +48,21 @@ namespace ovning_11_2
             }
             catch (System.FormatException)
             {
-                diameter = 101;
+                diameter = 100;
             }
 
             int diameter_part = Convert.ToInt32(diameter / 5);
-                
+            diameter = diameter_part * 5;
+
+            for (int i = diameter; i < 5; i++)
+            {
+                Invalidate();
+                x = x - diameter;
+                y = y - diameter;
+                side_length = i * diameter_part;
 
 
-
+            }
         }
-
-        //public void 
-
-
-
     }
 }
