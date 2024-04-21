@@ -1,0 +1,10 @@
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\bin\Debug\test_menyer.exe.config
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\bin\Debug\test_menyer.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\bin\Debug\test_menyer.pdb
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\obj\Debug\test_menyer.csproj.AssemblyReference.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\obj\Debug\test_menyer.Form1.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\obj\Debug\test_menyer.Properties.Resources.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\obj\Debug\test_menyer.csproj.GenerateResource.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\obj\Debug\test_menyer.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\obj\Debug\test_menyer.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\test_menyer\obj\Debug\test_menyer.pdb
