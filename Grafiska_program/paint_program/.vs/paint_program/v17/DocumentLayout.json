@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Teo\\Documents\\programming_files\\programming_two\\Grafiska_program\\paint_program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2BA193F-F4AB-4EEF-A8C6-C93EEA95677F}|paint_program.csproj|C:\\Users\\Teo\\Documents\\programming_files\\programming_two\\Grafiska_program\\paint_program\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2BA193F-F4AB-4EEF-A8C6-C93EEA95677F}|paint_program.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2BA193F-F4AB-4EEF-A8C6-C93EEA95677F}|paint_program.csproj|C:\\Users\\Teo\\Documents\\programming_files\\programming_two\\Grafiska_program\\paint_program\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BA193F-F4AB-4EEF-A8C6-C93EEA95677F}|paint_program.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2BA193F-F4AB-4EEF-A8C6-C93EEA95677F}|paint_program.csproj|c:\\users\\teo\\documents\\programming_files\\programming_two\\grafiska_program\\paint_program\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2BA193F-F4AB-4EEF-A8C6-C93EEA95677F}|paint_program.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2BA193F-F4AB-4EEF-A8C6-C93EEA95677F}|paint_program.csproj|c:\\users\\teo\\documents\\programming_files\\programming_two\\grafiska_program\\paint_program\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BA193F-F4AB-4EEF-A8C6-C93EEA95677F}|paint_program.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Teo\\Documents\\programming_files\\programming_two\\Grafiska_program\\paint_program\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Teo\\Documents\\programming_files\\programming_two\\Grafiska_program\\paint_program\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwBEAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T21:36:07.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Teo\\Documents\\programming_files\\programming_two\\Grafiska_program\\paint_program\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -44,6 +31,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T21:36:02.649Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Teo\\Documents\\programming_files\\programming_two\\Grafiska_program\\paint_program\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Teo\\Documents\\programming_files\\programming_two\\Grafiska_program\\paint_program\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAMwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:36:07.898Z",
+              "EditorCaption": ""
             }
           ]
         },

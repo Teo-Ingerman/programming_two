@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paint_but_worse", "paint_but_worse.csproj", "{CDCDD906-FEF2-4C6A-A881-30DAD7124F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCDD906-FEF2-4C6A-A881-30DAD7124F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCDD906-FEF2-4C6A-A881-30DAD7124F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCDD906-FEF2-4C6A-A881-30DAD7124F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCDD906-FEF2-4C6A-A881-30DAD7124F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28CA5C7E-8993-4097-BB4D-68D6F55CB74B}
+	EndGlobalSection
+EndGlobal

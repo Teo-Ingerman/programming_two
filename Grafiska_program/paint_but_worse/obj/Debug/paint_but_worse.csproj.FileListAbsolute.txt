@@ -1,0 +1,10 @@
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\bin\Debug\paint_but_worse.exe.config
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\bin\Debug\paint_but_worse.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\bin\Debug\paint_but_worse.pdb
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\obj\Debug\paint_but_worse.csproj.AssemblyReference.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\obj\Debug\paint_but_worse.Properties.Resources.resources
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\obj\Debug\paint_but_worse.csproj.GenerateResource.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\obj\Debug\paint_but_worse.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\obj\Debug\paint_but_worse.exe
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\obj\Debug\paint_but_worse.pdb
+C:\Users\Teo\Documents\programming_files\programming_two\Grafiska_program\paint_but_worse\obj\Debug\paint_but_worse.Form1.resources

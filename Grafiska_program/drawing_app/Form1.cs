@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Drawing;
-using System.Drawing.Imaging;
 using System.Windows.Forms;
 namespace drawing_app
 {
+    public class Shapes
+    {
+
+    }
     public partial class Form1 : Form
     {
         Graphics g;
